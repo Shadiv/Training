@@ -1,4 +1,1 @@
-# test
-test
-
-Simple programs for online courses. Learning
+# Training code. Simple programs for online courses
